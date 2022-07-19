@@ -1,0 +1,49 @@
+
+.top-nav {
+    background-color: black;
+    color: white;
+    margin: -17px;
+}
+.top {
+    padding: 1em;
+    text-align: right;
+    list-style-type: none;
+}
+li {
+    display: inline;
+    padding: 1em;
+}
+li:hover {
+    color: darkred;
+}
+
+.bottom-nav {
+    background-color: white;
+    color: black;
+    margin-left: -10px;
+    margin-right: -10px;
+    margin-bottom: -9px;
+    padding: 0px;
+}
+#bottom {
+    padding: 1em;
+    text-align: center;
+}
+#oscar {
+    color: blue;
+    font-size: 28px;
+}
+#find-doctor{
+    margin-left: 10em;
+}
+.max-container {
+    margin: auto;
+}
+h1 {
+    background-color: lightblue;
+    margin: 8px -8px;
+    margin-left: -8px;
+    padding-left: 5em;
+    height: 200px;
+}
+
